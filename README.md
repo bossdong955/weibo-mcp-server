@@ -7,6 +7,12 @@
 ### 安装依赖
 
 ```
+git clone https://github.com/bossdong955/weibo-mcp-server.git
+
+cd weibo-mcp-server
+
+conda create -n weibo-mcp-server python=3.11
+conda activate weibo-mcp-server
 pip install -r requirements.txt
 ```
 
