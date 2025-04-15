@@ -1,4 +1,4 @@
-# weiboresou-mcp-server
+# weibo-mcp-server
 
 一个获取前N微博热搜的MCP服务，支持stdio和sse模式调用。
 
