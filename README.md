@@ -54,3 +54,5 @@ python resou_sse.py
 在vscode中下载`cline`插件并配置`Remote Servers`服务 ，ip和端口根据实际情况设置。
 
 ![image.png](assets/image.png)
+
+**制作不易，如果对你有帮助的话，请给作者点个stars**。
