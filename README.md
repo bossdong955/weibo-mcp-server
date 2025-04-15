@@ -1,6 +1,6 @@
 # weiboresou-mcp-server
 
-一个基于SSE协议的获取前N微博热搜的MCP服务，通过API方式调用。
+一个获取前N微博热搜的MCP服务，支持stdio和sse模式调用。
 
 ## 配置方式
 
