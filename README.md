@@ -4,6 +4,12 @@
 
 ## 配置方式
 
+### 安装依赖
+
+```
+pip install -r requirements.txt
+```
+
 ### stdio模式
 配置文件内容如下：
 ```json
