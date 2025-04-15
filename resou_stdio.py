@@ -1,12 +1,5 @@
 from mcp.server.fastmcp import FastMCP
-from starlette.applications import Starlette
-from mcp.server.sse import SseServerTransport
-from starlette.requests import Request
-from starlette.routing import Mount, Route
-from mcp.server import Server
-import uvicorn
 import httpx
-
 
 # Initialize FastMCP server for Weather tools (SSE)
 mcp = FastMCP("weibo_resou")
